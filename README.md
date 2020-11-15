@@ -1,1 +1,3 @@
 # SEIR
+
+The goal of this project is to research parameters for an SEIR model of COVID-19 from March 15, 2020 in New Jersey, including and excluding normal birth and death rates in the state. An SEIR model, focusing on its infectious population, without any conditions to limit transmission rates of the virus will be investigated followed by an SEIR model where the transmission rate is reduced by 80%. The differences and similarities of the SEIR model with the CHIME model and IHME model will be discussed, focusing on limitations of each model. Lastly, a potential future model that can be used when New Jersey reopens will be explored.
